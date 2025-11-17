@@ -1,0 +1,72 @@
+body {
+    background-image: url("son.webp");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black;
+    }
+
+
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px; 
+    background: #D9C6A3;
+    object-fit: cover;
+    max-width: 100%;
+    
+}
+
+#increment-btn:hover {
+  background-color: yellow;
+  color: black;
+  background: #BF0436;
+  border-radius: 30px;
+ 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+   
+
+
+
+
+#save-btn {
+    background: #95C2E8;
+    border: 3px solid white;
+}
+ p{
+    color: #222222
+ }
+
+.folk{
+     box-sizing: border-box;
+    word-break: break-word;
+    border: 1px solid #222222;
+	border-radius: 30px;
+   background: #d8e2dc;
+	margin: auto;
+	
+	box-shadow: 7px 7px black;
+	max-width: 500px;
+    object-fit: cover;
+     padding: 20px;
+}
